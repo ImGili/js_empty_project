@@ -1,5 +1,16 @@
-# ``js``_empty_project
-``js``空项目
+# js Starter
 
-基于``webpack``编写的``js``项目模板，自带了``react``入门项目源码
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run this followed commands:
 
+``` bash
+# Install dependencies (only the first time)
+npm install
+
+# Run the local server at localhost:8080
+npm run dev
+
+# Build for production in the dist/ directory
+npm run build
+```
